@@ -6371,7 +6371,7 @@ th.hide-for-touch {
   display: table-cell !important; }
 
 .home {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .definition-text {
@@ -6379,5 +6379,9 @@ th.hide-for-touch {
 }
 
 .home-contact-button {
-  margin-top: 50px;
+  margin-top: 30px;
+}
+
+.home-description-text {
+  margin-top: 25px;
 }
